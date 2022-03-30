@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wjholbrook
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently studying chemistry and materials science
+- 👀 I’m interested in applied machine learning and data science
+- 🌱 I’m currently studying biochemistry and materials science
 - 📫 How to reach me is at wjholbrook15@gmail.com
 
 <!---
